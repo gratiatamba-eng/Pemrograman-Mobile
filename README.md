@@ -31,5 +31,5 @@ Anggota Kelompok dan Pembagian:
 Bertanggung jawab atas logika pengambilan, validasi, dan pemrosesan data yang diinput oleh pengguna melalui form, termasuk handling input pengalaman (jabatan, organisasi, tahun, deskripsi) dan input project, serta penyimpanan data ke repository.
 - Lutfia Nur Sabrina (24082010175) = Implementasi RecyclerView & Adapter
   Bertanggung jawab atas implementasi komponen RecyclerView sebagai daftar portofolio, termasuk pembuatan PortfolioAdapter yang menangani dua jenis item (Pengalaman & Project) dalam satu daftar campuran, serta fitur pencarian/filter real-time.
-- Cutrin Joy M.T Sihombing = Data & Repository RecyclerView
+- Cutrin Joy M.T Sihombing (24082010170)  = Data & Repository RecyclerView
   Bertanggung jawab atas pengelolaan data yang ditampilkan di RecyclerView, termasuk struktur data (PortfolioItem, sealed class), PortfolioRepository sebagai sumber data terpusat, serta mekanisme refresh data otomatis saat kembali ke halaman utama.
